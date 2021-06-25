@@ -14,6 +14,10 @@ Sun Qian <fredsuvn@163.com>
 
 toc::[]
 
+== Poem Arts
+
+link:src/随想.adoc[灵光一动的诗集 -- 随想]
+
 == About Me
 
 * {emaill}
