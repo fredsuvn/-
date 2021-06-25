@@ -16,7 +16,7 @@ toc::[]
 
 == Poem Arts
 
-link:src/随想.adoc[灵光一动的诗集 -- 随想]
+* 灵光一动的诗集 -- link:src/随想.adoc[随想]
 
 == About Me
 
