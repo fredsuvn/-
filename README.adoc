@@ -1,0 +1,30 @@
+= image:logo.svg[] Logo Art - My Poem Art Palace
+:toc: macro
+:toclevels: 3
+Sun Qian <fredsuvn@163.com>
+:emaill: fredsuvn@163.com
+:url: https://github.com/fredsuvn/poem-art
+:me-url: https://github.com/fredsuvn
+:qq: QQ: 2510701977
+:license: https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license]
+
+*Hi there, welcome to my _Poem Art Palace_!*
+
+*This is an amazing place collects a lot of genius poems written by a great poet -- ME!*
+
+toc::[]
+
+== Poem Arts
+
+link:src/随想.adoc[灵光一动的诗集 -- 随想]
+
+== About Me
+
+* {emaill}
+* {me-url}
+* {qq}
+* {url}
+
+== License
+
+{license}
